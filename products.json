@@ -1,0 +1,35 @@
+[
+  {
+    "sku": "OKA-LIQ-1L",
+    "name": "OKA Liquid Laundry 1L",
+    "price": 4.5,
+    "size": "1 L",
+    "excerpt": "Concentrated liquid detergent for daily use. Fresh scent, gentle on colours.",
+    "description": "Powerful stain removal with colour protection. Tested under ISO lab conditions. Suitable for household and small business use.",
+    "image": "assets/product-1.svg",
+    "ingredients": "Surfactants, Enzymes, Fragrance",
+    "msds": "assets/msds-1.pdf"
+  },
+  {
+    "sku": "OKA-LIQ-3L",
+    "name": "OKA Liquid Laundry 3L",
+    "price": 11.5,
+    "size": "3 L",
+    "excerpt": "Economy 3L size \u2014 great value for families and small laundromats.",
+    "description": "Economy pack for frequent washers. Same formula as 1L concentrated variant.",
+    "image": "assets/product-2.svg",
+    "ingredients": "Surfactants, Enzymes, Fragrance",
+    "msds": "assets/msds-2.pdf"
+  },
+  {
+    "sku": "OKA-LIQ-20L",
+    "name": "OKA Liquid Laundry 20L",
+    "price": 62.0,
+    "size": "20 L",
+    "excerpt": "Industrial 20L barrel \u2014 for commercial laundries and wholesale buyers.",
+    "description": "Bulk industrial formula with stabilizers for high-volume use.",
+    "image": "assets/product-3.svg",
+    "ingredients": "Surfactants, Stabilizers, Fragrance",
+    "msds": "assets/msds-3.pdf"
+  }
+]
